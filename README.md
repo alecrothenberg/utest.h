@@ -1,5 +1,15 @@
+
+
+
+# 🧪 utest.h
+
+[![Actions Status](https://github.com/sheredom/utest.h/workflows/CMake/badge.svg)](https://github.com/sheredom/utest.h/actions)
+[![Build status](https://ci.appveyor.com/api/projects/status/i2u3a0pw4pxprrcv?svg=true)](https://ci.appveyor.com/project/sheredom/utest-h)
+[![Sponsor](https://img.shields.io/badge/💜-sponsor-blueviolet)](https://github.com/sponsors/sheredom)
+
+A simple one header solution to unit testing for C/C++.
+
 ## Table of Contents
-- [🧪 utest.h](#-utesth)
   - [Usage](#usage)
   - [Command Line Options](#command-line-options)
   - [Design](#design)
@@ -39,15 +49,6 @@
     - [UTEST_SKIP(msg)](#utest_skipmsg)
   - [Types Supported for Checks](#types-supported-for-checks)
   - [License](#license)
-
-
-# 🧪 utest.h
-
-[![Actions Status](https://github.com/sheredom/utest.h/workflows/CMake/badge.svg)](https://github.com/sheredom/utest.h/actions)
-[![Build status](https://ci.appveyor.com/api/projects/status/i2u3a0pw4pxprrcv?svg=true)](https://ci.appveyor.com/project/sheredom/utest-h)
-[![Sponsor](https://img.shields.io/badge/💜-sponsor-blueviolet)](https://github.com/sponsors/sheredom)
-
-A simple one header solution to unit testing for C/C++.
 
 ## Usage
 
