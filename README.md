@@ -58,8 +58,6 @@ The current supported platforms are Linux, macOS and Windows.
 
 The current supported compilers are gcc, clang, MSVC's cl.exe, and clang-cl.exe.
 
-This library was created for unit testing in C and C++. It is designed to work with C and C++ in the same code base, as well as allowing users to filter certain test cases. As well, it is designed to run much faster than other testing frameworks.
-
 ## Command Line Options
 
 utest.h supports some command line options:
@@ -86,6 +84,8 @@ googletest framework:
 [==========] 1 test cases ran.
 [  PASSED  ] 1 tests.
 ```
+
+This library is designed to work with C and C++ in the same code base, as well as allowing users to filter certain test cases based on their need. As well, it is designed to run much faster than other testing frameworks.
 
 ## UTEST_MAIN
 
